@@ -18,11 +18,11 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL('https://surendrakumar.dev'),
   title: {
-    default: 'Surendra Kumar | Best Web Development Company & Freelance Developer in Lucknow, Bhadohi & Varanasi',
-    template: '%s | Surendra Kumar Developer Portfolio',
+    default: 'Surendra Kumar | Full Stack Developer',
+    template: '%s | Surendra Kumar',
   },
   description:
-    'Top Web Development Company & Freelance Full Stack Software Engineer in Lucknow, Bhadohi & Varanasi. Custom website creation, PHP Laravel, Next.js, AI APIs & E-commerce solutions.',
+    'Full Stack Web Developer & Software Engineer specializing in Next.js, React, PHP Laravel, and AI API Integrations. Building high-performance web applications and scalable solutions.',
   keywords: [
     // 🏢 Company & Development Search Terms (Lucknow, Bhadohi, Varanasi)
     'best web development company in Lucknow',
@@ -73,19 +73,19 @@ export const metadata: Metadata = {
     telephone: false,
   },
   openGraph: {
-    title: 'Surendra Kumar | Best Web Development Company & Freelancer (Lucknow, Bhadohi, Varanasi)',
+    title: 'Surendra Kumar | Full Stack Developer',
     description:
-      'Top Web Development Company & Freelance Full Stack Developer in Lucknow, Bhadohi & Varanasi. Expertise in Next.js, Laravel, AI APIs & Custom SaaS apps.',
+      'Full Stack Web Developer & Software Engineer specializing in Next.js, React, PHP Laravel & AI APIs. Building high-performance web apps and scalable solutions.',
     url: 'https://surendrakumar.dev',
-    siteName: 'Surendra Kumar Web Development & Engineering',
+    siteName: 'Surendra Kumar Portfolio',
     locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Surendra Kumar | Top Web Developer & Freelancer (Lucknow, Bhadohi, Varanasi)',
+    title: 'Surendra Kumar | Full Stack Developer',
     description:
-      'Best Web Development Company & Freelancer for custom website creation in Lucknow, Bhadohi & Varanasi.',
+      'Full Stack Web Developer & Software Engineer specializing in Next.js, React, PHP Laravel & AI APIs.',
   },
   robots: {
     index: true,
