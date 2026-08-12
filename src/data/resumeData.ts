@@ -33,7 +33,7 @@ export const resumeData = {
     location: 'Lucknow • Bhadohi • Varanasi, India',
     phone: '+91 6307220490',
     email: 'surendrakr1212@gmail.com',
-    linkedin: 'https://linkedin.com/in/surendrakumar',
+    linkedin: 'https://www.linkedin.com/in/surendra-kumar-b47599218?utm_source=share_via&utm_content=profile&utm_medium=member_android',
     github: 'https://github.com/surendrakumar',
     education: {
       degree: 'BCA (Bachelor of Computer Applications)',
@@ -214,17 +214,6 @@ export const resumeData = {
       category: 'Social & B2B',
       impact: 'High-traffic social marketplace platform with dynamic feeds',
       techStack: ['Laravel', 'React.js', 'MySQL', 'WebSockets', 'REST APIs'],
-      featured: true
-    },
-    {
-      id: 'togoparts',
-      title: 'Togoparts',
-      domain: 'togoparts.com',
-      url: 'https://www.togoparts.com',
-      description: 'Large-scale event & cycling marketplace operating across Singapore. Implemented leaderboard ranking systems, event tracking, and Stripe payment gateway.',
-      category: 'E-Commerce',
-      impact: 'High-traffic event platform across Singapore with Stripe integration',
-      techStack: ['Laravel', 'Stripe API', 'MySQL', 'REST APIs', 'JavaScript'],
       featured: true
     },
     {
